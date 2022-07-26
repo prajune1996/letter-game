@@ -11,3 +11,40 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.main-area{
+  background-color: #0B1953;
+  height: 100vh;
+}
+
+.letter_area{
+  background-color: white;
+  height: 20vh;
+  text-align: center;
+  border-radius: 20px;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.letter{
+  font-size: 100px;
+  color:#FA8165;
+}
+
+.text-red{
+  color: #c62828;
+}
+
+.stopwatch__display{
+  padding: 10px;
+  background: black;
+  text-align: center;
+}
+
+.scorearea{
+text-align: center;
+}
+.score{
+color: white;
+}
